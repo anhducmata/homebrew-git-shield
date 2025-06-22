@@ -3,7 +3,7 @@ class GitShield < Formula
   homepage "https://github.com/anhducmata/git-shield"
   url "https://raw.githubusercontent.com/anhducmata/git-shield/main/install-gitleaks-hook.sh"
   version "1.0.0"
-  sha256 "<INSERT_SHA256_HERE>"
+  sha256 "9ed3462ec525a26964c83b04b954914013ce849743460ec8c104ec1473d25eef"
   license "MIT"
 
   def install
